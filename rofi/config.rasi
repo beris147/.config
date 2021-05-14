@@ -1,0 +1,10 @@
+/** Basic config file **/
+
+configuration {
+  show-icons:         true;
+  icon-theme:         "Papirus";
+  combi-modi:         "search:~/.config/rofi/web-search.sh,drun";
+  modi:               "combi";
+  theme:              "slate";
+  font:               "Hack-Regular 15";
+}
